@@ -1,6 +1,6 @@
 # caddy-docker-proxy and caddy-security
 
-Caddy Web Server with docker-proxy and securit
+Caddy Web Server with docker-proxy and security
 
 [![Docker Build and Publish](https://github.com/smarjancic/caddy/actions/workflows/docker-publish.yml/badge.svg)](https://github.com/smarjancic/caddy/actions/workflows/docker-publish.yml)
 
