@@ -1,4 +1,4 @@
-# caddy-docker-proxy and caddy-security
+# caddy-docker-proxy, caddy-security, caddy-crowdsec-bouncer
 
 Caddy Web Server with docker-proxy and security
 
@@ -24,3 +24,4 @@ docker pull smarjancic/caddy:latest
 
 -   [Caddy Docker](https://hub.docker.com/_/caddy)
 -   [Caddy Server](https://caddyserver.com/docs/)
+-   [Caddy Crowdsec Bouncer](https://app.crowdsec.net/hub/author/hslatman/remediation-components/caddy-crowdsec-bouncer)
